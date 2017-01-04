@@ -1,0 +1,10 @@
+/bower_components/
+/node_modules/
+/.pulp-cache/
+/output/
+/.psc*
+/.psa*
+
+app/app.js
+
+.DS_Store
